@@ -8,11 +8,7 @@ public class LA5Main {
 		
 		String fun = "git is fun";
 		
-<<<<<<< HEAD
-		
 	System.out.print("Hello");
-=======
->>>>>>> branch 'master' of https://github.com/Sanfordjl01/CS_II_Lab_5
 	}
 
 }
