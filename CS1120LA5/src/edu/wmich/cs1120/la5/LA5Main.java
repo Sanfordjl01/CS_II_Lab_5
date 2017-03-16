@@ -5,7 +5,9 @@ public class LA5Main {
 	public static void main(String[] args) {
 		int i = 0;
 	System.out.print("Hello");
-	System.out.print("b");
+	//jkladfkldashjfkldshfkldsf
+	//System.class...
+	
 	}
 
 }
