@@ -8,6 +8,8 @@ public class LA5Main {
 	//jkladfkldashjfkldshfkldsf
 	//System.class...
 	//jhwfbvjhFWHABKL
+	
+	// fun
 	}
 
 }
